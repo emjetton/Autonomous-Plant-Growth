@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#git committed
+
 # Set up imports
 import RPi.GPIO as GPIO
 import RPI_ADC0832
